@@ -1,2 +1,1 @@
-# GitHubCloneProject
-A task for Practice, Learning and Training
+This is the description of my repo
